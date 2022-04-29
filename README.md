@@ -1,9 +1,9 @@
-# my-portfolio
-Data Science Portfolio
+# My-portfolio
+#Data Science Portfolio
 The Twitter platform provides an enormous amount of data. A machine learning algorithm needs a lot of data to build a good model.So, it’s a good idea we construct an ML predictor by training with Twitter data.
 We will build a classifier whether a user has a specific political view or not. We use Twitter tweets, users, and friend data to construct the classifier. Also, we will use a random forest as our learning algorithm and Python as our development platform.
 
-Steps:
+# Steps:
   1.Identify and collect Twitter data.
   2.Label the data.
   3.Do feature engineering.
