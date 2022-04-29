@@ -12,6 +12,6 @@ We will build a classifier whether a user has a specific political view or not. 
 5.Train the model.
 6.Evaluate the model.
 
-![](https://github.com/Monitkumar/my-portfolio/blob/main/Images/upload1.png)
-![](https://github.com/Monitkumar/my-portfolio/blob/main/Images/upload2.png)
+![](/Images/upload1.png)
+![](/Images/upload2.png)
 
