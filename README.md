@@ -1,9 +1,8 @@
 
 ## Data Science Portfolio
 # [Project 1 : Disastrous Tweets Classification](https://share.streamlit.io/monitkumar/tweets_classification_app/main/APP_TWEETS.py)
-
-     <p style ="text-align : center">The Twitter platform provides an enormous amount of data. A machine learning algorithm needs a lot of data to build a good model.So, it’s a good idea we          construct an ML predictor by training with Twitter data.
-     We will build a classifier whether a user has a specific political view or not. We use Twitter tweets, users, and friend data to construct the classifier.        Also, we will use a random forest as our learning algorithm and Python as our development platform.</p>
+The Twitter platform provides an enormous amount of data. A machine learning algorithm needs a lot of data to build a good model.So, it’s a good idea we          construct an ML predictor by training with Twitter data.
+We will build a classifier whether a user has a specific political view or not. We use Twitter tweets, users, and friend data to construct the classifier.        Also, we will use a random forest as our learning algorithm and Python as our development platform.
 
 # Steps:
 1. Identify and collect Twitter data.
