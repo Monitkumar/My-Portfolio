@@ -14,3 +14,6 @@ We will build a classifier whether a user has a specific political view or not. 
 ![](/Images/upload1.png)
 ![](/Images/upload2.png)
 
+# [Project 2 : Churn Rate Prediction]
+
+
