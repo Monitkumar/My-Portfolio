@@ -13,6 +13,6 @@ We will build a classifier whether a user has a specific political view or not. 
 5. Train the model.
 6. Evaluate the model.
 
-![jj](/Images/upload1.png)
+![](/Images/upload1.png)
 ![](/Images/upload2.png)
 
