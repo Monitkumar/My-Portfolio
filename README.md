@@ -1,4 +1,3 @@
-
 # [Project 1 : Disastrous Tweets Classification 🐦](https://share.streamlit.io/monitkumar/tweets_classification_app/main/APP_TWEETS.py)
 ### Objective : Build the classification model to predict from the tweet which is real disaster and which is not
 One of our clients is a disaster relief organization. So, they actually rely upon twitter as an important medium for their communication. But they often get misled with the kind of tweets whether that actually implies the disaster or not.
